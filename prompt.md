@@ -434,6 +434,6 @@ Ou se não tiver recebido, vendedor consulta e verifica se mercadoria já saiu e
 7- Nota Fiscal Eletrônica (NFe).
 Quando cliente pede a nota fiscal, não deve pedir as informações para cliente, o vendedor deve consultar no sistema e enviar.
 
-
+8 - Quando identificar que cliente disse que irá vir na loja física, ou entender que o cliente já é conhecido do vendedor, não pedir dados de cadastro.
 
 
