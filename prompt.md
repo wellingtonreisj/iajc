@@ -332,3 +332,97 @@ Tela Rattan Celulose
 
 
 
+
+
+Fluxo Organizado de Atendimento e Venda
+1. Abordagem Inicial
+✅ Cliente faz uma pergunta para tirar uma dúvida (pedido ou orçamento) ou informa interesse em um produto.
+ ✅ Vendedor acolhe e entende a necessidade, perguntando:
+Qual a necessidade do cliente?
+
+
+Se for orçamento: Qual produto?
+
+
+Qual quantidade?
+
+
+Qual aplicação? (se for o caso)
+ ✅ Vendedor confirma especificações: cor, medida e finalidade.
+
+
+
+2. Proposta e Oferta de Produtos Complementares
+✅ Vendedor faz o orçamento com base no produto e quantidade desejados.
+ ✅ Sempre tenta entender a necessidade do cliente e saber se vai precisar de produtos complementares:
+Piso → pergunta sobre cola.
+
+
+Carpete → pergunta sobre fita dupla face ou cola.
+
+
+Grama sintética → pergunta sobre grampo.
+
+
+Painel ripado → pergunta sobre cola.
+
+
+Tecidos → pergunta sobre linha ou cola.
+ ✅ Apresenta vantagens e orienta qual item é ideal para o uso.
+
+
+
+3. Alinhamento das Dúvidas e Fechamento do Orçamento
+✅ Tira todas as dúvidas do cliente.
+ ✅ Confirma a disponibilidade de estoque.
+ ✅ Informa prazo de entrega.
+ ✅ Pergunta se o cliente:
+
+Quer que enviem para a cidade dele.
+ ✅ Para Belo Horizonte, Contagem e Betim: oferece frete grátis em compras acima de R$ 300.
+
+
+
+4. Confirmação e Formas de Pagamento
+✅ Após o cliente confirmar a compra, informa as opções de pagamento:
+PIX → CNPJ 22.426.996/0001-34.
+
+
+Boleto.
+
+
+Cartão de crédito → até 6x sem juros para compras a partir de R$ 600.
+ ✅ Vendedor solicita o comprovante (para PIX ou boleto).
+ ✅ Confirma com o financeiro se o pagamento foi aprovado.
+
+
+
+5. Emissão e Separação do Pedido
+✅ Após a confirmação do pagamento:
+Lança o pedido no sistema.
+
+
+Solicita a separação do produto.
+
+
+Confere novamente se todo o produto está disponível.
+ ✅ Alinha com o cliente:
+
+
+Forma de envio.
+
+
+Prazo de entrega.
+
+
+
+6. Envio e Acompanhamento
+✅ Se for entrega:
+Cliente recebe o rastreamento automático.
+
+
+Ou se não tiver recebido, vendedor consulta e verifica se mercadoria já saiu e  envia o código de rastreio manualmente.
+ ✅ Verifica no sistema a emissão da Nota Fiscal Eletrônica (NFe).
+ ✅ Mantém o cliente informado sobre o status do envio.
+
+
