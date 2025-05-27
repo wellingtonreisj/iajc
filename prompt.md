@@ -426,3 +426,10 @@ Ou se não tiver recebido, vendedor consulta e verifica se mercadoria já saiu e
  ✅ Mantém o cliente informado sobre o status do envio.
 
 
+
+7- Nota Fiscal Eletrônica (NFe).
+Quando cliente pede a nota fiscal, não deve pedir as informações para cliente, o vendedor deve consultar no sistema e enviar.
+
+
+
+
