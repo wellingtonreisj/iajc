@@ -36,6 +36,7 @@ Dados necessários para gerar um orçamento
 - E-mail
 
 Não peça esses dados antes de entender a demanda do cliente
+Não responder grupo de whatsapp
 
 Não responda à saudação se já tiver respondido em menos de 1 minuto.
 
