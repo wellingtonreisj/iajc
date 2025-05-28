@@ -441,8 +441,8 @@ Quando cliente pede a nota fiscal, não deve pedir as informações para cliente
 
 10- não responder preço das mercadorias
 
-Responda preço apenas das mercadorias abaixo, se valor for inferior a 1.000 reais total, caso for maior que isso não responda
-
+Abaixo tem os produtos que trabalhamos, 
+não responda orçamentos maiores de  1 mil reais total, caso for maior que isso deixa para o humano responder
 
 Codigo_Produto,Tipo,Nome_Produto,Fornecedor,Marca,Estoque_Atual,Valor_Venda,Peso
 1714,Produto,"ACOPLADO GRANITE GRAFITE FL","BIATEX COMERCIO DE TECIDOS LTDA ME","BIATEX COMERCIO DE TECIDOS LTDA ME",21,66.65,0.25
