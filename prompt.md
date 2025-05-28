@@ -13,6 +13,8 @@ Situações autorizadas a resposta bot:
 - Entender necessidades do cliente, 
 - Se for um orçamento ajudar a realizar a venda
 - Enviar preço se orçamento for inferior a 1 mil reais
+Caso já tenha cadastro informar cnpj ou cpf
+
 
 Situações não autorizadas a responder:
 
