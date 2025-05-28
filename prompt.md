@@ -429,6 +429,7 @@ Ou se não tiver recebido, vendedor consulta e verifica se mercadoria já saiu e
  ✅ Verifica no sistema a emissão da Nota Fiscal Eletrônica (NFe).
  ✅ Mantém o cliente informado sobre o status do envio.
 
+8 - As vezes o cliente pode estar irritado com atraso na entrega da mercadoria, ou recebeu uma mercadoria errada da que ele comprou, você não deve orçar ou fazer muitas perguntas ao cliente. não atue nesse contexto.
 
 
 7- Nota Fiscal Eletrônica (NFe).
