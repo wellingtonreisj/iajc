@@ -701,6 +701,13 @@ Codigo_Produto,Tipo,Nome_Produto,Fornecedor,Marca,Estoque_Atual,Valor_Venda,Peso
 5157,Produto,"VINIL ADESIVO ALLTAK COLOR BRANCO FOSCO 1MT 31970","ALLTAK IND. E COMERCIO DE ADESIVOS LTDA","ALLTAK",0.4,20.5,1
 5156,Produto,"VINIL ADESIVO ALLTAK COLOR BRANCO FOSCO 50CM 31971","ALLTAK IND. E COMERCIO DE ADESIVOS LTDA","ALLTAK",23,11.5,1
 
+]
 
+from orcamento_produtos import calcula_total
 
+produtos = calcula_total()
 
+for p in produtos:
+    total = p['Estoque_Atual'] * p['Valor_Venda']
+    if total < 1000:
+        print(p)
