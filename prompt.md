@@ -441,7 +441,10 @@ Quando cliente pede a nota fiscal, não deve pedir as informações para cliente
 
 10- não responder preço das mercadorias
 
-Responda preço apenas das mercadorias abaixo
+Responda preço apenas das mercadorias abaixo, se valor for inferior a 1.000 reais total, caso for maior que isso não responda
+
+
+Codigo_Produto,Tipo,Nome_Produto,Fornecedor,Marca,Estoque_Atual,Valor_Venda,Peso
 1714,Produto,"ACOPLADO GRANITE GRAFITE FL","BIATEX COMERCIO DE TECIDOS LTDA ME","BIATEX COMERCIO DE TECIDOS LTDA ME",21,66.65,0.25
 4912,Produto,"ADESIVO PARA IMPRESSAO 50MT","WINNING TRADING IMPORTACAO E EXPORTACAO LTDA","MEGA PLASTICOS",0,490,16.8
 5025,Produto,"AGULHA PARA APLICADOR TAG FL","TEXTIL E CONFECCOES OTIMOTEX LTDA","TEXTIL E CONFECCOES OTIMOTEX LTDA",0,8.9,0.4
