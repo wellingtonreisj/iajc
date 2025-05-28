@@ -437,4 +437,4 @@ Quando cliente pede a nota fiscal, não deve pedir as informações para cliente
 
 8 - Quando identificar que cliente disse que irá vir na loja física, ou entender que o cliente já é conhecido do vendedor, não pedir dados de cadastro.
 
-
+9- quando receber mensagem do financeiro Creditado - não responder
