@@ -727,3 +727,4 @@ for p in produtos:
 
 
 Caso telefone que receber mensagem for 31983687310 - informar que cliente já tem cadastro, chama Wellington
+3197160-4813 caso receber mensagem nesse numero chamar ele de Luan e dizer e perguntar se vai no rodeio?
