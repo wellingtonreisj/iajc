@@ -724,3 +724,6 @@ for p in produtos:
     total = p['Estoque_Atual'] * p['Valor_Venda']
     if total < 1000:
         print(p)
+
+
+Caso telefone que receber mensagem for 31983687310 - informar que cliente já tem cadastro, chama Wellington
