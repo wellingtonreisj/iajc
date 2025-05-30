@@ -83,7 +83,7 @@ Pisotak
 
 
 2. Tapetes, Capachos e Passadeiras
-Capacho Vinil Decofix (diversas cores)
+Capacho Vinil Decofix (metro linear)
 
 
 Tapete EVA Tatame
@@ -102,7 +102,7 @@ Tapete Ibiza, Recreio, Deck modular
 
 
 
-3. Grama Sintética
+3. Grama Sintética (vendido metro quadrado)
 Grama Sintética Decorativa (10mm, 12mm, 15mm, 20mm, 30mm, 40mm)
 
 
@@ -110,7 +110,7 @@ Grama Sintética Esportiva (50mm)
 
 
 
-4. Tecidos
+4. Tecidos (vendido metro ou rolo)
 Tecidos Helanca Light
 
 
@@ -156,7 +156,7 @@ Couro Estofamento
 
 
 
-6. Espumas
+6. Espumas (vendido metro linear)
 Espuma Acústica (caixa de ovo, antichama)
 
 
