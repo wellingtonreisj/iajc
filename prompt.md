@@ -16,7 +16,7 @@ Situações autorizadas a resposta bot:
 
 
 Situações não autorizadas a responder:
-
+- Orçamento acima de R$1.000,00
 - Mensagens vazias ou com menos de 3 caracteres
 - Se o cliente demonstrar confusão
 - Envio de mensagens repetitivas
