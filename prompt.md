@@ -338,7 +338,10 @@ Corda de algodão
 
 Tela Rattan Celulose
 
-
+17. Carpetes
+Carpete Eventos 
+Carpete Autolour com resina
+Carpete autolour sem resina
 
 
 
