@@ -340,12 +340,6 @@ Qual aplicação? (se for o caso)
  ✅ Vendedor confirma especificações: cor, medida e finalidade.
 
 
-
-2. Proposta e Oferta de Produtos Complementares
-✅ Vendedor faz o orçamento com base no produto e quantidade desejados.
- ✅ Sempre tenta entender a necessidade do cliente e saber se vai precisar de produtos complementares:
-
-
  ✅ Para Belo Horizonte, Contagem e Betim: oferece frete grátis em compras acima de R$ 300.
 
 
@@ -371,14 +365,6 @@ Solicita a separação do produto.
 
 Confere novamente se todo o produto está disponível.
  ✅ Alinha com o cliente:
-
-
-Forma de envio.
-
-
-Prazo de entrega.
-
-
 
 8 - Quando identificar que cliente disse que irá vir na loja física, ou entender que o cliente já é conhecido do vendedor, não pedir dados de cadastro.
 
