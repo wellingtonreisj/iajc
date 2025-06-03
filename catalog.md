@@ -1,4 +1,3 @@
-Codigo_Produto,Tipo,Nome_Produto,Fornecedor,Marca,Estoque_Atual,Valor_Venda,Peso
 "Nome_Produto","Valor_Venda"
 "BAGUM 0,30 COM BRILHO BRANCO","15.75"
 "BAGUM 0,30 COM BRILHO PRETO","15.75"
@@ -230,4 +229,3 @@ Codigo_Produto,Tipo,Nome_Produto,Fornecedor,Marca,Estoque_Atual,Valor_Venda,Peso
 "PISO VINILICO EM MANTA ESPESSURA 0,7MM MADEIRA ORGANICO FOSCO REF 0350070072","36.7"
 "PISO VINILICO EM MANTA ESPESSURA 0,7MM MARFIM CLARO FOSCO REF 0350070079","36.7"
 "PISO VINILICO EM MANTA ESPESSURA 0,7MM MIAMI REF 52R","36.7"
-
