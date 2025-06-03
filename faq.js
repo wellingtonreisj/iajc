@@ -1,4 +1,4 @@
-const faqList = [
+[
   {
     pergunta: "Qual a medida da grama sintética?",
     resposta: "A grama é vendida por metro quadrado. A largura padrão do rolo é de 2 metros, e você escolhe o comprimento conforme sua necessidade."
@@ -39,4 +39,4 @@ const faqList = [
     pergunta: "Posso cortar a grama para ajustar ao meu espaço?",
     resposta: "Sim! A grama pode ser cortada com estilete, de acordo com as medidas do seu ambiente."
   }
-];
+]
