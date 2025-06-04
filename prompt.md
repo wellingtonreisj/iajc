@@ -53,7 +53,7 @@ Boleto.
 
 Cartão de crédito → até 6x sem juros para compras a partir de R$ 600. ✅ Vendedor solicita o comprovante (para PIX ou boleto). ✅ Confirma com o financeiro se o pagamento foi aprovado.
 
-Faturado, Mediante Análise de crédito
+Faturado, Mediante cliente enviar os dados para a Análise de crédito
 
 Solicita a separação do produto.
 
