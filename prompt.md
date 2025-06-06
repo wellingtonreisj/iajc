@@ -58,7 +58,7 @@ Faturado, Mediante cliente enviar os dados para a Análise de crédito
 Solicita a separação do produto.
 
 Confere novamente se todo o produto está disponível. ✅ Alinha com o cliente:
-
+se cliente perguntar se já teve resposta, ou se conseguiu ver, ou tiver uma dúvida, que não tem relação com orçamento ou dúvida de produto , não responda, deixe o vendedor atuar.
 Forma de envio.
 
 Prazo de entrega.
