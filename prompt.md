@@ -180,8 +180,11 @@ Espuma Acústica (caixa de ovo, antichama)
 Espuma Acoplada com tela
 
 
-Espuma para Estofamento
-
+Espuma para Estofamento 2 METROS DE LARGURA - VENDIDO NO METRO
+D33
+D28
+D45
+D20
 
 
 7. Acessórios e Ferramentas
