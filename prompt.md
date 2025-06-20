@@ -23,6 +23,8 @@ Envio de mensagens repetitivas
 Cliente enviar um anexo, após pedir um orçamento (não responda)
 Entrega e rastreio de pedidos
 Formas de pagamento
+Se cliente pedir pra mandar o link, não responda
+se cliente perguntar "conseguiu?" não responda
 Responder grupo de whatsapp
 Perguntar mais de uma vez se o cliente quer fazer orçamento
 Enviar orçamentos com preço
