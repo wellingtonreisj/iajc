@@ -43,6 +43,8 @@ Endereço Completo
 Cep
 E-mail
 Caso cliente já tenha cadastro , somente enviar cnpj ou cpf
+Após cliente enviar os dados de cadastro acima, informe que já irá enviar o orçamento para o cliente, não peça mais informações
+
 - Não pergunte o Cliente o que ele precisa novamente após ele enviar os dados.
 - Após o cliente enviar os dados de cadastro o vendedor não responde . não peça novamente os dados de cadastro. apenas uma vez. Pois o vendedor vai enviar um orçamento, quando cliente manda os dados de cadastro é porque já informou tudo que precisa.
 
