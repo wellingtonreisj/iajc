@@ -159,7 +159,7 @@ Tecidos para Estofamento (Boucle, Blend, Noble)
 
 
 
-5. Sintéticos e Couros
+5. Sintéticos e Couros - geralmente tem 1,4m de largura, vendido no metro ou peça
 Courvin Paraguay, Decofix, Fatto, Kloauto
 
 
@@ -272,11 +272,11 @@ Eternity Sign
 
 
 
-12. Têxteis Técnicos
-TNT (liso, estampado, bordado)
+12. Têxteis Técnicos - geralmente tem 1,4 metro de largura, vendido no metro linear
+TNT (liso, estampado, bordado) normalmente tem 1,4m de largura
 
 
-Bagum
+Bagum - tem 1,4m de largura - vendido no metro
 
 
 Napinha
@@ -302,10 +302,10 @@ Feltro (betumado, moletom)
 Rodapés (autocolante, slim, frisado)
 
 
-Painel de Cortiça
+Painel de Cortiça - vendido na placa ou no metro
 
 
-Forro de Mesa Térmico
+Forro de Mesa Térmico - vendido no rolo
 
 
 Capas de Almofada
@@ -324,8 +324,8 @@ Tela antiderrapante
 
 
 
-14. Lonas
-Lona para toldo
+14. Lonas endido no metro linear
+Lona para toldo - tem 1,4m de largura, - vendido no metro linear
 Lona para tatame
 Lona encerada (caminhão)
 
@@ -355,7 +355,7 @@ Corda de algodão
 
 Tela Rattan Celulose
 
-17. Carpetes
+17. Carpetes ( venda no metro quadrado) tem 2m de largura
 Carpete Eventos 
 Carpete Autolour com resina
 Carpete autolour sem resina
