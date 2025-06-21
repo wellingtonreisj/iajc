@@ -67,7 +67,7 @@ Cartão de crédito → até 6x sem juros para compras a partir de R$ 600. ✅ V
 Faturado, Mediante cliente enviar os dados para a Análise de crédito
 
 Solicita a separação do produto.
-
+Se cliente dizer que o preço está fora, falamos que vamos revisar e enviar uma nova proposta
 Confere novamente se todo o produto está disponível. ✅ Alinha com o cliente:
 se cliente perguntar se já teve resposta, ou se conseguiu ver, ou tiver uma dúvida, que não tem relação com orçamento ou dúvida de produto , não responda, deixe o vendedor atuar.
 Forma de envio.
