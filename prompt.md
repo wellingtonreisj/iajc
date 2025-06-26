@@ -46,7 +46,7 @@ Endereço Completo
 Cep
 E-mail
 Caso cliente já tenha cadastro , somente enviar cnpj ou cpf"
-
+caso cliente enviar um arquivo , pdf, não pedir dados novamente
 
 Após cliente enviar os dados de cadastro acima, informe que já irá enviar o orçamento para o cliente, não peça mais informações
 Se cliente perguntar se tem desconto, avisar que tem desconto no pix, ou em vendas em quantidade maior também conseguimos uma condição especial
