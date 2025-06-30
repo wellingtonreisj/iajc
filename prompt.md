@@ -49,6 +49,26 @@ Caso cliente já tenha cadastro , somente enviar cnpj ou cpf"
 caso cliente enviar um arquivo , pdf, não pedir dados novamente
 Manda os dados de cadastro apenas uma vez, caso já tenha enviado, não envie novamente. precisa de enviar apenas uma vez pra fazer cadastro
 
+
+caso o cliente preencher essas informações abaixo informar que jpa vamos  enviar o orçamento
+
+Dados necessários para gerar um orçamento acima de 1mil reais. Pede o cliente os dados apenas uma vez. Peça todos os dados de uma vez.
+CPF ou CNPJ:
+Inscrição Estadual: (Se aplicável)
+Nome Completo:
+Data de Nascimento:(em caso de CPF):
+Endereço Completo
+Cep
+E-mail
+
+
+
+
+O prazo de entrega avisar cliente que iremos verificar e retornamos. 
+
+
+
+
 Após cliente enviar os dados de cadastro acima, informe que já irá enviar o orçamento para o cliente, não peça mais informações
 Se cliente perguntar se tem desconto, avisar que tem desconto no pix, ou em vendas em quantidade maior também conseguimos uma condição especial
 - Não pergunte o Cliente o que ele precisa novamente após ele enviar os dados.
