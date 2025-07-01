@@ -63,8 +63,9 @@ E-mail
 
 
 
-
+Caso cliente enviar algum arquivo após a solicitação , não peça novamente os dados, os dados podem estar no arquivo que ele enviou, seja pdf, imagem ou qualquer outro arquivo e anexo
 O prazo de entrega avisar cliente que iremos verificar e retornamos. 
+
 
 
 
