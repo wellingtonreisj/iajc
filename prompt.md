@@ -389,6 +389,8 @@ Carpete autolour sem resina
 
 
 
+- caso o produto que o cliente precisa você não indentifcar que temos, não responda.
+
  - Quando identificar que cliente disse que irá vir na loja física, ou entender que o cliente já é conhecido do vendedor, não pedir dados de cadastro.
  - se cliente disser que já enviou as informação não falar nada
 
